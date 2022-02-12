@@ -6,7 +6,7 @@ Hey viewer of my website! I am Akhil Pillai, a student at [University of Califor
 * Created a [Python script that can generate CD and OEM keys for Windows 95](https://github.com/Akhil841/win95prodkeygen)
 * Implemented various data structures for CSE 12 (I'd link it here but I'm not going to do it until I finish CSE 12, because I might be accused of being complicit in plagiarism otherwise)
 
-I want there to be links to every part of [this website](akhil841.github.io), so you can find my lab reports for CSE 15L [here](https://akhil841.github.io/cse-15l-lab-reports)
+I want there to be links to every part of [this website](akhil841.github.io), so you can find my lab reports for CSE 15L [here](https://akhil841.github.io/cse-15l-lab-reports).
 
 ## Stuff to know about me
 * I enjoy watching anime, playing video games, computer programming, and hanging out with my friends.
