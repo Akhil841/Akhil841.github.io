@@ -5,6 +5,7 @@ Hey viewer of my website! I am Akhil Pillai, a student at [University of Califor
 * Created a [clone of Wordle in Java](https://akhil841.github.io/wordle-clone/)
 * Created a [Python script that can generate CD and OEM keys for Windows 95](https://github.com/Akhil841/win95prodkeygen)
 * Implemented various data structures for CSE 12 (I'd link it here but I'm not going to do it until I finish CSE 12, because I might be accused of being complicit in plagiarism otherwise)
+</table>
 ## Stuff to know about me
 * I enjoy watching anime, playing video games, computer programming, and hanging out with my friends.
    * In particular, I enjoy competitive Pokemon. I reached top 500 in [Pokemon Showdown](play.pokemonshowdown.com)'s Gen 8 OU tier once.
