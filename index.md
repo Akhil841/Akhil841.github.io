@@ -1,5 +1,5 @@
 # Akhil Pillai
-Hey viewer of my website! I am Akhil Pillai, a student at [University of California San Diego](ucsd.edu) studying computer engineering in undergrad.
+Hey viewer of my website! I am Akhil Pillai, a student at [University of California San Diego](https://ucsd.edu) studying computer engineering in undergrad.
 ## Stuff I've done
 * Improved on [Prof. Joe Politz's markdown link parser](https://github.com/Akhil841/markdown-parse) as part of UCSD's CSE 15L class.
 * Created a [clone of Wordle in Java](https://akhil841.github.io/wordle-clone/)
