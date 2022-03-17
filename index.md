@@ -4,7 +4,7 @@ Hey viewer of my website! I am Akhil Pillai, a student at [University of Califor
 * Improved on [Prof. Joe Politz's markdown link parser](https://github.com/Akhil841/markdown-parse) as part of UCSD's CSE 15L class.
 * Created a [clone of Wordle in Java](https://akhil841.github.io/wordle-clone/)
 * Created a [Python script that can generate CD and OEM keys for Windows 95](https://github.com/Akhil841/win95prodkeygen)
-* Implemented various data structures for CSE 12 (I'd link it here but I'm not going to do it until I finish CSE 12, because I might be accused of being complicit in plagiarism otherwise)
+* Implemented various data structures for [UCSD's CSE 12](https://github.com/Akhil841/CSE-12)
 
 I want there to be links to every part of [this website](akhil841.github.io), so you can find my lab reports for CSE 15L [here](https://akhil841.github.io/cse-15l-lab-reports).
 
