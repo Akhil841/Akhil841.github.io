@@ -1,4 +1,4 @@
-# Akhil Pillai
+# Akhil841's website
 Hey viewer of my website! I am Akhil Pillai, a student at [University of California San Diego](https://ucsd.edu) studying computer engineering.
 ## Stuff I've done
 * Improved on [Prof. Joe Politz's markdown link parser](https://github.com/Akhil841/markdown-parse) as part of UCSD's CSE 15L class
