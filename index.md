@@ -7,6 +7,7 @@ Hey viewer of my website! I am Akhil Pillai, a student at [University of Califor
 * Implemented various data structures in [UCSD's CSE 12](https://github.com/Akhil841/CSE-12)
 * Wrote various programs, such as a table viewer and editor, in C and ARM assembly in [CSE 30](https://github.com/Akhil841/CSE-30)
 * Currently working on a [Game Boy emulator](https://github.com/Akhil841/jasmine)
+* [test link](https://akhil841.github.io/jasmine)
 
 ## Stuff to know about me
 * I enjoy watching anime, playing video games, computer programming, and hanging out with my friends.
