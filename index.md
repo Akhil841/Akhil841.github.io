@@ -9,7 +9,7 @@ Hey viewer of my website! I am Akhil Pillai, a student at [University of Califor
 * Wrote programs in [CSE 100](https://github.com/Akhil841/CSE-100)
 * Created a [file compressor/decompressor that uses Huffman coding](https://github.com/Akhil841/scale-cpp)
 * Created a [numerical expression evaluator](https://github.com/Akhil841/nee)
-* Created a [C++ unit testing framework](https://github.com/Akhil841/penumbra)
+* Created a [C++ unit testing framework](https://akhil841.github.io/penumbra)
 * Created a [Game Boy emulator](https://akhil841.github.io/jasmine)
 
 ## Stuff to know about me
