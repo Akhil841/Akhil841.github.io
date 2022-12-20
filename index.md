@@ -6,9 +6,10 @@ Hey viewer of my website! I am Akhil Pillai, a student at [University of Califor
 * Created a [Python script that can generate CD and OEM keys for Windows 95](https://github.com/Akhil841/win95prodkeygen)
 * Implemented various data structures in [UCSD's CSE 12](https://github.com/Akhil841/CSE-12)
 * Wrote various programs, such as a table viewer and editor, in C and ARM assembly in [CSE 30](https://github.com/Akhil841/CSE-30)
+* Wrote programs in [CSE 100](https://github.com/Akhil841/CSE-100)
 * Created a [file compressor/decompressor that uses Huffman coding](https://github.com/Akhil841/scale-cpp)
 * Created a [numerical expression evaluator](https://github.com/Akhil841/nee)
-* Created a [simple regex parser](https://github.com/Akhil841/sahelanthropus)
+* Created a [C++ unit testing framework](https://github.com/Akhil841/penumbra)
 * Created a [Game Boy emulator](https://akhil841.github.io/jasmine)
 
 ## Stuff to know about me
